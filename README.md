@@ -224,5 +224,6 @@ WHERE ip != 'ip';
 
 # Sample Output 
 ```bash 
-
+total_requests
+100
 ```
