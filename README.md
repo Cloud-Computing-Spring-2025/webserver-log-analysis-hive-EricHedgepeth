@@ -58,6 +58,10 @@ hadoop fs -put /tmp/web_server_logs.csv /user/hive/logs
 hive
 ```
 
+
+## I switched to HUE at this point to use the editor there 
+
+
 # Make a database and use it 
 ```bash
 CREATE DATABASE IF NOT EXISTS web_logs_db;
